@@ -25,6 +25,6 @@
 
 ## 🔗 Links
 
-- 📄 Resume: https://github.com/iayyappareddy/iayyappareddy/raw/main/Ayyappa_Data_Science_Resume.pdf
+- 📄 Resume: https://github.com/Iayyappareddy/iayyappareddy/blob/main/Ayyappa_Data_Science_Resume.pdf
 - 💼 LinkedIn: https://www.linkedin.com/in/ayyappa-reddy-i-31696a343
 - 💻 GitHub: https://github.com/Iayyappareddy
