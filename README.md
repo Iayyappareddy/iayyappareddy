@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ayyappa Reddy 👋
 
-<!--
-**Iayyappareddy/iayyappareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI  
+📊 Interested in data analysis, dashboards, and business insights
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- Python, SQL, Excel, Power BI  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Data Cleaning, Data Analysis, EDA, Basic Statistics  
+- MySQL, PostgreSQL  
+
+---
+
+## 📂 Projects
+
+🔹 Customer Churn Analysis  
+🔹 Global Food Waste Analysis  
+
+(Details inside repositories)
+
+---
+
+## 🔗 Links
+
+- 📄 Resume: https://github.com/iayyappareddy/iayyappareddy/raw/main/Ayyappa_Data_Science_Resume.pdf
+- 💼 LinkedIn: https://www.linkedin.com/in/ayyappa-reddy-i-31696a343
+- 💻 GitHub: https://github.com/Iayyappareddy
