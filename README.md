@@ -118,6 +118,6 @@ Backend Developer • Python Developer • Django Developer • AI Engineer • 
 
 ## 🔗 Links
 
-- 📄 Resume: https://github.com/Iayyappareddy/iayyappareddy/blob/main/Ayyappa_Data_Science_Resume.pdf
+- 📄 Resume: https://github.com/Iayyappareddy/iayyappareddy/blob/main/Ayyappa_FullStack_Resume.pdf
 - 💼 LinkedIn: https://www.linkedin.com/in/ayyappa-reddy-i-31696a343
 - 💻 GitHub: https://github.com/Iayyappareddy
