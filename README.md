@@ -1,6 +1,6 @@
-### Hi, I'm Ayyappa Reddy 👋
+##### Hi, I'm Ayyappa Reddy 👋
 
-🚀 Backend Developer & GenAI Builder passionate about building scalable backend systems and AI-powered applications.
+🚀 Full stack Developer & AI with RAG Builder passionate about building scalable backend systems and AI-powered applications.
 
 I specialize in **Python backend engineering**, **Django**, **Django REST Framework**, and modern **GenAI / RAG architectures**.
 
