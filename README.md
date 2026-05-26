@@ -1,4 +1,4 @@
----# Hi, I'm Ayyappa Reddy 👋
+### Hi, I'm Ayyappa Reddy 👋
 
 🚀 Backend Developer & GenAI Builder passionate about building scalable backend systems and AI-powered applications.
 
