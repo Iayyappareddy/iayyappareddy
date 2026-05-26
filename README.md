@@ -1,17 +1,3 @@
-# Hi, I'm Ayyappa Reddy 👋
-
-🎯 Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI  
-📊 Interested in data analysis, dashboards, and business insights
-
----
-
-## 🧠 Skills
-
-- Python, SQL, Excel, Power BI  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Data Cleaning, Data Analysis, EDA, Basic Statistics  
-- MySQL, PostgreSQL  
-
 ---# Hi, I'm Ayyappa Reddy 👋
 
 🚀 Backend Developer & GenAI Builder passionate about building scalable backend systems and AI-powered applications.
