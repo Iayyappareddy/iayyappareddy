@@ -96,9 +96,9 @@ Full-stack Django application that recommends yoga poses based on user pain desc
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
-🌐 Portfolio / Live Demo: YOUR_NETLIFY_LINK
+💼 LinkedIn: https://www.linkedin.com/in/ayyappa-reddy-i-31696a343
 💻 GitHub: https://github.com/Iayyappareddy
+🌐 Portfolio / Live Demo: YOUR_NETLIFY_LINK
 
 ---
 
