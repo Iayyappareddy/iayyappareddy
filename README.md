@@ -16,7 +16,6 @@ Recently, I built a privacy-first **Enterprise Private AI Assistant** using loca
 * Django
 * Django REST Framework (DRF)
 * REST APIs
-* JWT Authentication
 * Role-Based Access Control (RBAC)
 * PostgreSQL
 * SQL
@@ -24,7 +23,6 @@ Recently, I built a privacy-first **Enterprise Private AI Assistant** using loca
 ### AI / GenAI
 
 * Retrieval-Augmented Generation (RAG)
-* LlamaIndex
 * Local LLM Deployment
 * Vector Embeddings
 
@@ -34,17 +32,9 @@ Recently, I built a privacy-first **Enterprise Private AI Assistant** using loca
 * CSS
 * JavaScript
 
-### Tools
-
-* Git
-* GitHub
-* Docker
-* VS Code
-* Jupyter Notebook
-
 ---
 
-## 🚀 Featured Projects
+## 🚀Projects
 
 ### Enterprise Private AI Assistant
 
@@ -60,6 +50,7 @@ Privacy-first enterprise AI knowledge assistant built with Django, DRF, RAG, Lla
 * Local AI inference (privacy-first)
 
 🔗 Live Demo: https://enterprise-ai.netlify.app/
+🔗 Repository: https://github.com/Iayyappareddy/enterprise-ai-assistant
 
 ---
 
@@ -90,7 +81,7 @@ Full-stack Django application that recommends yoga poses based on user pain desc
 
 ## Currently Looking For
 
-Backend Developer • Python Developer • Django Developer • AI Engineer • GenAI Roles
+Fullstack Developer • Backend Developer • Python Developer • Django Developer • AI Engineer • GenAI Roles
 
 
 ## 📂 Projects
