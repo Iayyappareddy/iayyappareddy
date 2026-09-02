@@ -1,4 +1,4 @@
-# Hi, I'm Ayyappa Reddy 👋
+# Hi, I'm Ayyappa Reddy 
 
 🚀 Full stack Developer & AI with RAG Builder passionate about building scalable backend systems and AI-powered applications.
 
